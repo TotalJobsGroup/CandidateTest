@@ -2,7 +2,7 @@
 
 ## Guidelines
 ### Please do not fork this repository
-Please create your own repository on a publically available source control (e.g. Github, Bitbucket) and once you have completed the Task please send a link to it back to your recruitment contact for reviewing.
+Please clone this repository and push it to your own repository on a publically available source control (e.g. Github, Bitbucket) and once you have completed the Task please send a link to it back to your recruitment contact for reviewing.
 
 
 ## Scenario
