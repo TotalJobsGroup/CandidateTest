@@ -4,6 +4,8 @@
 ### Please do not fork this repository
 Please clone this repository and push it to your own publically available repository (e.g. Github, Bitbucket) and once you have completed the Task please send a link to it back to your recruitment contact for reviewing.
 
+_You can install [Visual Studio Community](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) & [Resharper Trial](https://www.jetbrains.com/resharper/download/) if you do not have copies on your computer._
+
 
 ## Scenario
 The application you will be building is a questionnaire. There is a Web API Service in the solution which will provide you with the questions. The solution uses a hardcoded/mocked repository to avoid using a real data source.
