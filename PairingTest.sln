@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{77A68506-57BF-4A5A-B02B-559AE4EA6D24}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PairingTest.Web", "src\PairingTest.Web\PairingTest.Web.csproj", "{402EBD8B-346C-4351-9E74-9EDAE62425BE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PairingTest.Unit.Tests", "src\PairingTest.Unit.Tests\PairingTest.Unit.Tests.csproj", "{B2006308-EEB7-4957-B504-3081C5469887}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionServiceWebApi", "src\QuestionServiceWebApi\QuestionServiceWebApi.csproj", "{FD5496DC-AAD2-46DB-BFC7-4FEE7A85DA56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuestionServiceWebApi", "src\QuestionServiceWebApi\QuestionServiceWebApi.csproj", "{FD5496DC-AAD2-46DB-BFC7-4FEE7A85DA56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -60,11 +58,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{402EBD8B-346C-4351-9E74-9EDAE62425BE} = {77A68506-57BF-4A5A-B02B-559AE4EA6D24}
-		{B2006308-EEB7-4957-B504-3081C5469887} = {77A68506-57BF-4A5A-B02B-559AE4EA6D24}
-		{FD5496DC-AAD2-46DB-BFC7-4FEE7A85DA56} = {77A68506-57BF-4A5A-B02B-559AE4EA6D24}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {734D0CEC-7CA1-42A8-8A49-0CB07AE93C52}
