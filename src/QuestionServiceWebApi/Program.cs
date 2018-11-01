@@ -19,7 +19,6 @@ namespace QuestionServiceWebApi
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>()
-                .UseUrls("http://*:6518");
+                   .UseStartup<Startup>();
     }
 }

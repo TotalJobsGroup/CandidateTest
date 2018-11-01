@@ -6,9 +6,9 @@ namespace PairingTest.Web.Controllers
     public class QuestionnaireController : Controller
     {
         /* ASYNC ACTION METHOD... IF REQUIRED... */
-        //        public async Task<ViewResult> Index()
-        //        {
-        //        }
+        //public async Task<ViewResult> Index()
+        //{
+        //}
 
         public ViewResult Index()
         {

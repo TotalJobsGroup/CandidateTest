@@ -12,7 +12,6 @@ namespace PairingTest.Web
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>()
-                .UseUrls("http://*:6588");
+                   .UseStartup<Startup>();
     }
 }
