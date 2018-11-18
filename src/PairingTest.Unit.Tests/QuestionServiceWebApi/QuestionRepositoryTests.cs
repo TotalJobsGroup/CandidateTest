@@ -1,5 +1,5 @@
 ﻿using NUnit.Framework;
-using QuestionServiceWebApi;
+using PairingTest.WebApi;
 
 namespace PairingTest.Unit.Tests.QuestionServiceWebApi
 {

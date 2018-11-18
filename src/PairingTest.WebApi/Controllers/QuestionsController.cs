@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using QuestionServiceWebApi.Interfaces;
+using PairingTest.WebApi.Interfaces;
 
-namespace QuestionServiceWebApi.Controllers
+namespace PairingTest.WebApi.Controllers
 {
     [Route("api/[controller]")]
     public class QuestionsController : Controller

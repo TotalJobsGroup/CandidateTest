@@ -16,7 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PairingTest.Web\PairingTest.Web.csproj" />
-    <ProjectReference Include="..\QuestionServiceWebApi\QuestionServiceWebApi.csproj" />
+    <ProjectReference Include="..\PairingTest.WebApi\PairingTest.WebApi.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using PairingTest.Unit.Tests.QuestionServiceWebApi.Stubs;
-using QuestionServiceWebApi;
-using QuestionServiceWebApi.Controllers;
+using PairingTest.WebApi;
+using PairingTest.WebApi.Controllers;
 
 namespace PairingTest.Unit.Tests.QuestionServiceWebApi
 {

@@ -1,5 +1,5 @@
-﻿using QuestionServiceWebApi;
-using QuestionServiceWebApi.Interfaces;
+﻿using PairingTest.WebApi;
+using PairingTest.WebApi.Interfaces;
 
 namespace PairingTest.Unit.Tests.QuestionServiceWebApi.Stubs
 {

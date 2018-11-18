@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PairingTest.Web", "src\Pair
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PairingTest.Unit.Tests", "src\PairingTest.Unit.Tests\PairingTest.Unit.Tests.csproj", "{B2006308-EEB7-4957-B504-3081C5469887}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuestionServiceWebApi", "src\QuestionServiceWebApi\QuestionServiceWebApi.csproj", "{FD5496DC-AAD2-46DB-BFC7-4FEE7A85DA56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PairingTest.WebApi", "src\PairingTest.WebApi\PairingTest.WebApi.csproj", "{FD5496DC-AAD2-46DB-BFC7-4FEE7A85DA56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,4 +1,4 @@
-﻿namespace QuestionServiceWebApi.Interfaces
+﻿namespace PairingTest.WebApi.Interfaces
 {
     public interface IQuestionRepository
     {

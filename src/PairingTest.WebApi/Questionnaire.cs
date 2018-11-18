@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace QuestionServiceWebApi
+namespace PairingTest.WebApi
 {
     public class Questionnaire
     {

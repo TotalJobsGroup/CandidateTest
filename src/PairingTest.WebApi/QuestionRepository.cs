@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using QuestionServiceWebApi.Interfaces;
+using PairingTest.WebApi.Interfaces;
 
-namespace QuestionServiceWebApi
+namespace PairingTest.WebApi
 {
     public class QuestionRepository : IQuestionRepository
     {
